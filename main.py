@@ -4,7 +4,7 @@ import random
 import numpy as np
 import discord
 import os
-Location = 'C:\kkutu'
+Location = ''
 ao = 'kkutu_integrated.xlsx'
 column = 0
 
